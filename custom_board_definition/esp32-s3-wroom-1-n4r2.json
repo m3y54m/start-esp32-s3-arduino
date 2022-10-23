@@ -12,7 +12,7 @@
       "-DARDUINO_EVENT_RUNNING_CORE=1"
     ],
     "f_cpu": "240000000L",
-    "f_flash": "40000000L",
+    "f_flash": "80000000L",
     "flash_mode": "qio",
     "hwids": [
       [
@@ -21,7 +21,7 @@
       ]
     ],
     "mcu": "esp32s3",
-    "variant": "esp32-s3-wroom-1-n4r2"
+    "variant": "esp32s3"
   },
   "connectivity": [
     "wifi"
